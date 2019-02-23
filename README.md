@@ -4,14 +4,11 @@ HighTechU Spring 2019 - Group Project
 
 ### Please write the problem statement of your project.
 
-I want to be able to play an simple, entertaining 2-player game with someone else.
+{Erase me and write your answer here!}
 
 ### Mention the four user stories that your team has decided to work on.
 
- 1. As a user, I want to be able to see the rules of the game clearly.
- 2. As a user, I want to be able to see my score/statistics clearly.
- 3. As a user, I want to be able to select a character.
- 4. As a user, I want to be able to attack and callibrate.
+{Erase me and write your answer here!}
 
 ### Design a wireframe for your project.
 
