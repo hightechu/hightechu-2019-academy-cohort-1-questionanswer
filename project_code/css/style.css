@@ -1,3 +1,114 @@
+<<<<<<< HEAD
+.questions
+{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;height: 80px;
+  color: "blue";
+  margin: 5px;
+  padding: 5px;
+  border: 3px solid green;
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: 96%;
+  padding-right: 10px;
+}
+
+.questions img {
+  position: absolute;
+  right: 27px;
+  top: 27px;
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+
+img 
+{
+  opacity: 0.5;
+}
+
+tr
+[
+  opacity:
+]
+.rules
+{
+  height: 25px;
+  color: "red";
+  margin: 3px;
+  padding: 3px;
+  border: 3px;
+}
+.game
+ {
+   height: 550px;
+   margin: 5px;
+   padding: 10px;
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   border: 3px solid black;
+ }
+
+.inventory
+{
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+  color: green;
+  border: 3px solid black;
+  text-align: center;
+}
+
+table, th, td {
+  height: 180px;
+  margin: 5px;
+  padding: 5px;
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+
+#container
+{
+  height: 550px; 
+  color: green;
+  border: 3px solid black;
+}
+
+#rcorners1:hover 
+{
+  background-color: #73AD21;
+  font-weight: bold;
+  width: 300px;
+  height: 50px;
+}
+
+#rcorners2:hover
+{
+  background-color: #5c960c;
+  font-weight: bold;
+ 
+}
+
+#rcorners2:active
+{
+  background-color: #5c960c;
+  font-weight: bold;
+}
+
+#tr:hover
+{
+  opacity: ;}
+
+
+a {
+  font-size: 22px;
+}
+
+input[type='radio'] { 
+display: none;
+
+=======
  .questions
   {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;height: 80px;
@@ -95,10 +206,20 @@
 input[type='radio'] { 
   display: none;
   
+>>>>>>> 779a22a692a247a22555cc0e42fe6e6fef7fc688
 }
 
 #rcorners1 
 {
+<<<<<<< HEAD
+text-align: center;
+border-radius: 150px;
+border: 2px solid #73AD21;
+background: whitesmoke;
+padding: 5px; 
+width: 250px;
+height: 30px;  
+=======
   text-align: center;
   border-radius: 150px;
   border: 2px solid #73AD21;
@@ -106,10 +227,21 @@ input[type='radio'] {
   padding: 5px; 
   width: 250px;
   height: 30px;  
+>>>>>>> 779a22a692a247a22555cc0e42fe6e6fef7fc688
 }
 
 #rcorners2
 {
+<<<<<<< HEAD
+text-align: center;
+border-radius: 150px;
+border: 2px solid #73AD21;
+background: whitesmoke;
+padding: 5px; 
+width: 150px;
+height: 30px;  
+}
+=======
   text-align: center;
   border-radius: 150px;
   border: 2px solid #73AD21;
@@ -119,3 +251,4 @@ input[type='radio'] {
   height: 30px;  
 }
 <<<<<<< HEAD
+>>>>>>> 779a22a692a247a22555cc0e42fe6e6fef7fc688
