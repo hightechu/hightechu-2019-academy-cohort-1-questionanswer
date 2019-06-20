@@ -12,10 +12,10 @@ Its a storymode game where the user goes through different questions and learns 
 
 ## User Stories
 
- 1. As a user, I want to be able to see the rules of the game clearly.
- 2. As a user, I want to be able to see all questions clearly.
- 3. As a user, I want to be able to select an option from given options.
- 4. As a user, I want to be able to move between different questions.
+* As a user, I want to be able to see the rules of the game clearly.
+* As a user, I want to be able to see all questions clearly.
+* As a user, I want to be able to select an option from given options.
+* As a user, I want to be able to move between different questions.
 
 ## Promo
 
