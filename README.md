@@ -4,7 +4,7 @@
 
 ## Website
 
-[Live Demo](https://hightechu.github.io/hightechu-academy-questionanswer/)
+[Live Demo](https://hightechu.github.io/hightechu-academy-questionanswer/app)
 
 ## Problem Statement
 
